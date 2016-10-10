@@ -50,6 +50,7 @@
      <Compile Include="Assets\Scripts\Components\Button.cs" />
      <Compile Include="Assets\Scripts\Components\Control.cs" />
      <Compile Include="Assets\Scripts\Components\Hop.cs" />
+     <Compile Include="Assets\Scripts\Components\Illuminated.cs" />
      <Compile Include="Assets\Scripts\Components\Look.cs" />
      <Compile Include="Assets\Scripts\Components\SceneController.cs" />
      <Compile Include="Assets\Scripts\Components\Shatter.cs" />

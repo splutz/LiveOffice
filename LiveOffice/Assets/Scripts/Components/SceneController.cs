@@ -178,11 +178,11 @@ public class SceneController : MonoBehaviour {
 
 	public void Update() {
 		if (Input.GetMouseButtonDown (0)) {
-			Debug.Log ("Starting pathfind...");
-			clearPath ();
-			find ();
-
-
+//			Debug.Log ("Starting pathfind...");
+//			clearPath ();
+//			find ();
+//
+//
 		}
 		if (Input.GetMouseButtonDown (1)) {
 			/*
